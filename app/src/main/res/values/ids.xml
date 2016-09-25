@@ -2,4 +2,6 @@
 <resources>
     <item name="LinearLayputMain" type="id" />
     <item name="LinearLayoutMain" type="id" />
+    <item name="LinearLayoutAnak" type="id" />
+    <item name="editTextumur" type="id" />
 </resources>
